@@ -23,7 +23,7 @@ header {
     justify-content: space-between;
     align-items: center;
     width: calc(90vw - 0em);
-    margin: 40px auto 0px auto;
+    margin: 10px auto 0px auto;
   }
 }
 @media (max-width: 530px) {
